@@ -22,3 +22,5 @@ b: Bar {
   asdf: 10
 }
 ```
+
+See [this blog post](https://aneeshdurg.me/posts/2023-02-23-reflection-cpp/) for details.
